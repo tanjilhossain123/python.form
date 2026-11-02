@@ -1,0 +1,5 @@
+101|Maisha Akter|Cappuccino|2|4.50|Student|Paid
+102|Tanjil Hossain|Latte|1|5.00|None|Unpaid
+103|Apon Debnath|Flat White|3|4.80|Member|Paid
+104|Monirul Islam|Espresso|2|3.50|Staff|Unpaid
+105|Sarah Lee|Mocha|1|5.50|None|Paid
